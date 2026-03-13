@@ -1,0 +1,60 @@
+body{
+  width: 100%;
+  background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images.jpeg);
+   background-position: center;
+   background-size: cover;
+  min-height: 100vh;
+  justify-content: center;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  background-position: center;
+  color: white;
+  
+}
+img{
+  height: 100px;
+  width: 100px;
+  border-radius:30px ;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+
+.linkma{
+  color: #ff7200;
+  font-size: 20px;
+  font-family: 'Times New Roman';
+  font-weight: bolder;
+  transition: 0.5s ease;
+}
+
+.linkma:hover{
+  color: white;
+}
+
+button{
+  background-color: #ff7200;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 8px;
+  transition: 0.5s ease;
+}
+
+button:hover{
+  background-color: white;
+}
+
+h2{
+  color: white;
+  font-size: 40px;
+}
+
+span{
+  color: #ff7200;
+}

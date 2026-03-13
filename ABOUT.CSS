@@ -1,0 +1,41 @@
+body{
+ width: 100%;
+  background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images.jpeg);
+   background-position: center;
+   background-size: cover;
+  min-height: 100vh;
+  justify-content: center;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  background-position: center;
+  color: white;
+  font-weight: bolder;
+  background-repeat: no-repeat;
+  
+}
+img{
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+}
+
+.par{
+  font-size: 30px;
+}
+
+.sax{
+  color: #ff7200;
+  font-size: 40px;
+
+}
+
+.eax{
+  font-size: 40px;
+}
+
+.imge{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
